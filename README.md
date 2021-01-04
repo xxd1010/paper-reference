@@ -14,9 +14,19 @@
 
 ## [六自由度点焊机器人结构设计与动态性能分析_张立志.caj](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201301&filename=1013116093.nh&v=HCsHSZq8V%25mmd2BN3GDHRMyhlnX8rB1F2eJL2R3ULcfPQCjEJeLfo8vaEa8IerG%25mmd2F7p92K)
 
->## 1. 其他
 
->>### 1.1 markdown里的代码注释
+# 2. 电机与减速器的选型计算
+
+
+## 2.1 计算过程
+>角速度与转速的关系：
+>$$ \omega =\pi \times n $$
+
+已知第六轴的最大角速度为$\omega=360^{°}/s$，则第六轴的转速$n=114.59r/min$。质量为$m_{6}=0.23kg$，体积$V_{6}=86729.23mm^{3}$，转动惯量为$J_{6x}=57.67kg\cdot mm^{2}$，$J_{6y}=349.23kg\cdot mm^{2}$，$J_{6z}=349.82kg\cdot mm^{2}$，则电机初选电机转速为$n=2000r/min$，据此选择电机额定转速和减速器减速比，因此初选减速器的减速比为17。
+
+# 3. 其他
+
+>## 3.1 markdown里的代码注释
 
 ```python
 import turtle

@@ -24,11 +24,12 @@
 ## 1.2 其他资料
 
 伺服电机选型大难题？看完这篇文章的人都说会了 <https://zhuanlan.zhihu.com/p/101149851>
- 松下伺服电机选型手册<https://wenku.baidu.com/view/2b6079d333d4b14e852468ef.html>
- 安川伺服电机综合选型手册
-<https://www.docin.com/p-283501384.html>
-伺服电机选型手册
-<https://max.book118.com/html/2019/0806/5310100023002113.shtm>
+
+松下伺服电机选型手册<https://wenku.baidu.com/view/2b6079d333d4b14e852468ef.html>
+ 
+安川伺服电机综合选型手册<https://www.docin.com/p-283501384.html>
+
+伺服电机选型手册<https://max.book118.com/html/2019/0806/5310100023002113.shtm>
 
 # 2. 电机与减速器的选型计算
 
